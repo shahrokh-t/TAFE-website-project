@@ -1,0 +1,14 @@
+@media screen and (max-width:600px) {
+    .logo {
+        width: 45px;
+        padding: 0.3em;
+    }
+    .content-cards {
+        grid-template-columns: 1fr;
+        margin: 2em 0.5em;
+    }
+    .home-banner h2 {
+        font-size: 2em;
+    }
+    
+}
